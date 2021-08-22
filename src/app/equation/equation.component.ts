@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl } from '@angular/forms';
-
 import { delay, filter, scan } from 'rxjs/operators';
 
 import { MathValidators } from '../models/math-validators';

@@ -8,7 +8,7 @@ form {
 input {
   border: none;
   border-bottom: 1px solid black;
-  width: 20%;
+  width: 40%;
   text-align: center;
   font-size: 96px;
 }
@@ -24,4 +24,8 @@ input:focus {
   right: 0;
   text-align: center;
   font-size: 24px;
+}
+
+.close {
+  background-color: rgba(255, 235, 60, 0.3);
 }
